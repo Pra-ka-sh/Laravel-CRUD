@@ -1,2 +1,2 @@
 # Laravel-CRUD
-A imple crud application using resource as a route
+A simple crud application on laravel using resource as a route
